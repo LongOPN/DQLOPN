@@ -9,8 +9,8 @@
  
  
 
-[[Paper ()](  )]
-[[SIGGRAPH Poster (](  )]
+[[Paper ](  )]
+[[SIGGRAPH Poster ](  )]
 [[Project Page]( )]
 [[Demo]()]
 [[Colab]()]
